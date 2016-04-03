@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_49223b6cb122eba2cd275fbfa5fc1118980ff648.jar" />
+    </item>
+    <item
+        jar="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_b0dec12be73f6072d3be79816b08816cadeab3b0.jar" />
+    </item>
+    <item
+        jar="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_3e960a8c8165014b1cdf6e2e427586c2bdf43b8e.jar" />
+    </item>
+    <item
+        jar="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa18e2a7f6e603705a6f0f9a7124d1929671b335">
+        <dex dex="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\pre-dexed\debug\instant-run_b379558401c3751a6e9b107b454241e58df27fa7.jar" />
+    </item>
+    <item
+        jar="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_bdb19f03075a11ffa27089524c5a3541f3cbb33e.jar" />
+    </item>
+    <item
+        jar="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0fa17a1f1bb048109a33f0f3e8398d9ffafc9e8e">
+        <dex dex="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\pre-dexed\debug\classes_046469e6756b97c9805340622ea6246c9994dc3c.jar" />
+    </item>
+    <item
+        jar="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_230efe123aa60bf89ce93b0c0eafee1a394bde41.jar" />
+    </item>
+    <item
+        jar="E:\Android_IDE\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="J:\TEMP\mutiLineEditText-df7e0d2844b655681b01c83fea17ba83df64f810\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_153ed7ad97a9f4a54871bdd01418c575b4d2cda9.jar" />
+    </item>
+
+</items>

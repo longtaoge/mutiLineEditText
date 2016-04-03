@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.mutilineedittext.MainActivity"
+    android:background="#F8F8F8"
+    >
+
+
+
+    <com.example.mutilineedittext.MyMultiLineEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="13sp"
+        android:lineSpacingMultiplier="2.0"
+        android:gravity="center_vertical"
+        android:textCursorDrawable="@drawable/cursor_red"
+        android:background="@null"
+        android:textColor="#555555"
+        android:text="\t\t学习andorid一段时间了想试着练练手，看到一个备忘录软件于是想模拟着去实现下对应的功能。但是想实现本子那种可以呈现很多行分割线的文本框遇到问题，尝试了多种EditText组件的功能仍然不能实现对应的效果。虽然EditText提供了多行输入的功能但是并没有为每行绘制出对应的分割线。对于菜鸟的我问百度大神，最后在大神的帮助下找到了相关的实现代码实现了对应的功能，效果图如下所示："
+        android:textSize="15sp"
+        />
+
+</LinearLayout>
